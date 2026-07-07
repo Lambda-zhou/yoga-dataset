@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+*.zip
+
+# local migration backups
+_backup_exercises_to_yoga_*/
