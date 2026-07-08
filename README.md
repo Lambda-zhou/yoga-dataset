@@ -420,3 +420,5 @@ This repository is a **developer setup wizard and structured yoga pose dataset**
 - Verify rights and compliance requirements for any production use of pose descriptions, instructions, or artwork.
 - This repository does **not** provide medical advice. Yoga practice can involve physical risk; apps built from this dataset should include appropriate safety guidance and encourage users to consult qualified professionals when needed.
 - If you are a rights holder and wish to have anything removed or clarified, please [open an issue](../../issues) or contact the maintainer.
+
+- 学 AI，上 L 站：https://linux.do/
